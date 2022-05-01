@@ -4,3 +4,4 @@
   <Step2>"Find Pushbutton 'create new account'"</Step2>
   <exp_result>"Button at the right corner of display"</exp_result>
   <fact_result>"there is no button on display"</fact_result>
+  
